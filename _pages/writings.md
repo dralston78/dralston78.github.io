@@ -5,7 +5,7 @@ permalink: /writings/
 description: 
 nav: true
 nav_order: 
-display_categories: [test]
+display_categories: [writings]
 horizontal: false
 ---
 
