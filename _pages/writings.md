@@ -9,7 +9,7 @@ display_categories: [writings]
 horizontal: false
 ---
 
-Below is a selection of my writing from college.  Most of these are from creative writing classes which focused on long form nonfiction, taught by acclaimed author Professor Alex Marzano-Lesnevich.  
+Below is a selection of my writing.  Most pieces are from creative writing classes which focused on long-form nonfiction, taught by acclaimed author Professor Alex Marzano-Lesnevich.  
 
 
 <!-- pages/projects.md -->
