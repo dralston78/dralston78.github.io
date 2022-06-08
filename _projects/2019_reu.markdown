@@ -1,0 +1,25 @@
+---
+layout: page
+title: Toroidal Circle Packing
+description: 
+img: /assets/img/2019reu_proj_icon.png
+importance: 
+category: projects
+---
+
+Building off of [previous results](https://arxiv.org/pdf/1708.05395.pdf), we determined the local and global maximally dense arrangements of three circles on any flat torus with ratio $$\sqrt{2}-1$$, which was chosen as a result of Heppes' bound -- a supremum on the density of circles with radii in this ratio.  Using techniques from rigidity theory and topological graph theory, we constructed graphs representing possible circle packings, and then examined their embeddings on a flat torus in the fundamental domain of $$SL_2(\mathbb{Z})$$.  This work was the focus of my summer research at [Grand Valley State University](https://www.gvsu.edu/mathreu/) as part of their 2019 NSF Research Experince for Undergraduates chort.  I worked with Sarah Van (Ph.D. student at UNC), and we were advised by [Professor William Dickinson](https://faculty.gvsu.edu/dickinsw/index.html).  
+
+Below are links to our final report containing our original results and to a GitHub repository with the Mathematica scripts we used for algebraic reduction.  Additionally, within the repo the *Embedding Results* folder contains the data for all possible graph embeddings.  
+
+- Optimal Packings of Three Circles on Any Flat Torus
+- [GitHub Repository](https://github.com/dralston78/Toroidal-Circle-Packing) with Mathematica scripts, images and graph data
+
+
+<!-- <div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/research_LF-M2015.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Predictions for the evolution of the high redshift UV luminosity function from Mason et al. (2015)
+</div> -->
