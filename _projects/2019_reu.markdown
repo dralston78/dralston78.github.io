@@ -2,7 +2,7 @@
 layout: page
 title: Toroidal Circle Packing
 description: 
-img: /assets/img/2019reu_proj_icon.png
+img: /assets/img/2019reu_proj_icon.jpg
 importance: 
 category: projects
 ---
