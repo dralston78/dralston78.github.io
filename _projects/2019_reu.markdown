@@ -11,7 +11,7 @@ Building off of [previous results](https://arxiv.org/pdf/1708.05395.pdf), we det
 
 Below are links to our final report containing our original results and to a GitHub repository with the Mathematica scripts we used for algebraic reduction.  Additionally, within the repo the *Embedding Results* folder contains the data for all possible graph embeddings.  
 
-- [Optimal Packings of Three Circles on Any Flat Torus](assets/pdf/GVSU_paper.pdf)
+- [Optimal Packings of Three Circles on Any Flat Torus](/assets/pdf/GVSU_paper.pdf)
 - [GitHub Repository](https://github.com/dralston78/Toroidal-Circle-Packing) with Mathematica scripts, images and graph data
 
 
