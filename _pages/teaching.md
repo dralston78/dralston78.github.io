@@ -8,8 +8,8 @@ nav: true
 ---
 
 Current teaching appointment:
-- Differential Equations (MATH 4B)
-
+- Linear Algebra (MATH 4A); to current students, worksheets will be linked here soon
 
 Past teaching assistant appointments:
+- Differential Equations (MATH 4B)
 - Intro to Calculus (MATH 34A/B)
